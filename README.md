@@ -7,7 +7,6 @@
 ## 
 - 💻I'm a server(infrastracture / network) engineer.
 - 🌱 I’m currently learning k8s!
-- 📫 How to reach me: [Twitter - @x86q](https://x.com/x86q)
 
 <!-- Skill https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
