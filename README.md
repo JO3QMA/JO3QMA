@@ -15,6 +15,7 @@
 ## About Me
 - 💻 I'm a server(infrastracture / network) engineer.
 - 🌱 I’m currently learning k8s!
+- 📖 My Diary ([diary.jo3qma.com](https://diary.jo3qma.com))
 
 <!-- Skill https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
