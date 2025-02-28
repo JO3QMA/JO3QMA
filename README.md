@@ -26,7 +26,9 @@
 - Fundamental Information Technology Engineer Examination (Feb, 2024)
 - Applied Information Technology Engineer Examination (Dec, 2024)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7419b54f-2e36-4861-9b44-7b23247ab3e6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href='https://www.credly.com/badges/7419b54f-2e36-4861-9b44-7b23247ab3e6/public_url'>
+  <img src='/assets/img/lpic2.png' alt='LPIC-2 Certificate Exams' style='width:128px;'>
+</a>
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
